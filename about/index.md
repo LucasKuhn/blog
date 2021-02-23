@@ -11,4 +11,6 @@ A place for me to share code tutorials, mostly for myself.
 
 Naming inspiration came from the awesome blog by Dan Abramov, [OverReacted.io](https://overreacted.io/)
 
-Built using [11ty](https://github.com/11ty/eleventy-base-blog)
+> _The road to success is always under construction_ - Lily Tomlin
+
+<!-- Built using [11ty](https://github.com/11ty/eleventy-base-blog) -->
