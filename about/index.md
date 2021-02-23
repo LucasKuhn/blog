@@ -1,12 +1,14 @@
 ---
 layout: layouts/base.njk
-title: About
+title: What's this
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
   order: 3
 ---
 
-I am a person that writes stuff.
+A place for me to share code tutorials, mostly for myself.
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Naming inspiration came from the awesome blog by Dan Abramov, [OverReacted.io](https://overreacted.io/)
+
+Built using [11ty](https://github.com/11ty/eleventy-base-blog)
