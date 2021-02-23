@@ -1,7 +1,7 @@
 {
   "title": "Under development",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
+  "url": "https://lucaskuhn.dev",
+  "domain": "lucaskuhn.dev",
   "description": "Description of the website. Update me.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me",
@@ -10,11 +10,11 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://lucaskuhn.dev"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://lucaskuhn.dev/feed/feed.json"
   },
   "author": {
     "name": "Personal blog by Lucas Kuhn",
